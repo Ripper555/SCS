@@ -1,0 +1,21 @@
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.Computer.resources
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.ListDialog.resources
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.Till.resources
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\ResGen.read.1.tlog
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\ResGen.write.1.tlog
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\bin\Release\StockControlSystem.exe
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\bin\Release\StockControlSystem.pdb
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.exe
+H:\Visual Studio 2010\Projects\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.pdb
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.exe
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.pdb
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\bin\Release\StockControlSystem.exe
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\bin\Release\StockControlSystem.pdb
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.Computer.resources
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.ListDialog.resources
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.Properties.Resources.resources
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.Till.resources
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.csproj.GenerateResource.Cache
+C:\Users\Matt\Downloads\SCS_Project2\SCS_Project\StockControlSystem\obj\x86\Release\StockControlSystem.csprojResolveAssemblyReference.cache
